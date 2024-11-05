@@ -1,8 +1,8 @@
-### Hi there 👋
+### HI👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue.svg)](https://br.linkedin.com/in/josuerodrigues17)
-[![Instagram](https://img.shields.io/badge/Twitter-@seu-twitter-blue.svg)](https://www.instagram.com/_josuerod/)
-[![GitHub](https://img.shields.io/badge/GitHub-seu-usuario-black.svg)](https://github.com/seu-usuario)
+[![LinkedIn](<img width="64" height="64" src="https://img.icons8.com/nolan/64/linkedin.png" alt="linkedin"/>)](https://br.linkedin.com/in/josuerodrigues17)
+[![Instagram](<img width="64" height="64" src="https://img.icons8.com/nolan/64/instagram-new.png" alt="instagram-new"/>)](https://www.instagram.com/_josuerod/)
+[![GitHub](<img width="64" height="64" src="https://img.icons8.com/nolan/64/github.png" alt="github"/>)](https://github.com/JosueRod17)
 
 ## 🎉 Sobre Mim
 
@@ -10,20 +10,14 @@ Sou um desenvolvedor em formação apaixonado por *tecnologias*. Sempre me aprim
 ## ⚡ Tecnologias e Ferramentas
 
 <div>
-  <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js" />
-  <img width="48" height="48" src="https://img.icons8.com/color/48/html.png" alt="html"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/css.png" alt="css"/>
+  <img width="64" height="64" src="https://img.icons8.com/nolan/64/javascript-logo.png" alt="javascript-logo"/>
+  <img width="64" height="64" src="https://img.icons8.com/nolan/64/node-js.png" alt="node-js"/>
+  <img width="64" height="64" src="https://img.icons8.com/nolan/64/html.png" alt="html"/>
+  <img width="64" height="64" src="https://img.icons8.com/nolan/64/css3.png" alt="css3"/>
   <img width="64" height="64" src="https://img.icons8.com/dusk/64/php-logo.png" alt="php-logo"/>
-  <img width="100" height="100" src="https://img.icons8.com/clouds/100/python.png" alt="python"/>
+  <img width="64" height="64" src="https://img.icons8.com/nolan/64/python.png" alt="python"/>
   
 </div>
-
-## 🚀 Projetos em Destaque
-
-- [*Projeto 1*](link-para-o-projeto1): Uma breve descrição do que o projeto faz.
-- [*Projeto 2*](link-para-o-projeto2): Uma breve descrição do que o projeto faz.
-- [*Projeto 3*](link-para-o-projeto3): Uma breve descrição do que o projeto faz.
 
 ## 📊 Estatísticas do GitHub
 
