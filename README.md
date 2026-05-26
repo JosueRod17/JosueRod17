@@ -1,108 +1,44 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JosueRod17/JosueRod17/main/assets/banner.png" alt="Banner Josué Rodrigues" width="100%" />
+# JOSUÉ RODRIGUES
 
-# 👋 Olá, eu sou Josué Rodrigues
+### `DESENVOLVEDOR FULL STACK`
 
-### 🚀 Desenvolvedor Full Stack em formação
-
-<p>
-  Apaixonado por tecnologia, automações e desenvolvimento web.  
-  Sempre buscando evoluir diariamente através de projetos práticos, estudo constante e novos desafios.
+<p align="center">
+  <a href="https://github.com/JosueRod17">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Automações+com+Python;Integrações+com+APIs;React+%7C+Node.js+%7C+Docker;Sempre+evoluindo+🚀" />
+  </a>
 </p>
 
-<a href="https://br.linkedin.com/in/josuerodrigues17" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/_josuerod/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://github.com/JosueRod17" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-# 💻 Tecnologias & Ferramentas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,nodejs,react,python,php,postgres,docker,tailwind,html,css,git" />
+<p align="center">
+  <a href="https://br.linkedin.com/in/josuerodrigues17">
+    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=8A2BE2"/>
+  </a>
+  
+  <a href="https://www.instagram.com/_josuerod/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=8A2BE2"/>
+  </a>
+  
+  <a href="mailto:SEUEMAIL">
+    <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=8A2BE2"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-# 📚 Atualmente estudando
+# ⚡ SOBRE MIM
 
-- ⚛️ React
-- 🐍 Python para automações e APIs
-- ☁️ AWS
-- 🐳 Docker
-- 🔗 Integrações com APIs e Webhooks
-- ⚙️ Node.js
-
----
-
-# 🚀 Projetos em destaque
-
-### 🔹 Portfólio Pessoal
-> Portfólio moderno desenvolvido com React + TailwindCSS.
-
-### 🔹 Bots e Automações
-> Desenvolvimento de automações utilizando Python, APIs e scraping.
-
-### 🔹 Sistemas Web
-> Aplicações Full Stack utilizando Node.js, PostgreSQL e integração com APIs.
-
----
-
-# 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosueRod17&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueRod17&layout=compact&theme=radical&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
----
-
-# 🔥 Streak Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JosueRod17&theme=radical&hide_border=true&background=0d1117" />
-
-</div>
-
----
-
-# 🐍 Contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/JosueRod17/JosueRod17/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-# 📫 Contato
-
-- 📧 Email: **SEU_EMAIL**
-- 🌎 Portfólio: **SEU_SITE**
-- 💼 LinkedIn: https://br.linkedin.com/in/josuerodrigues17
-
----
-
-<div align="center">
-
-### ✨ “Transformando ideias em código.”
-
-</div>
+```ts
+const josue = {
+  foco: "Full Stack Development",
+  linguagens: ["JavaScript", "Python", "PHP"],
+  frontend: ["React", "TailwindCSS"],
+  backend: ["Node.js", "APIs", "Automations"],
+  bancoDeDados: ["PostgreSQL", "MySQL"],
+  devOps: ["Docker", "Git"],
+  
+  atualObjetivo:
+    "Construir aplicações modernas, performáticas e escaláveis."
+}
