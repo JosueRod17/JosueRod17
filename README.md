@@ -1,44 +1,49 @@
 <div align="center">
 
-# JOSUÉ RODRIGUES
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:8A2BE2&text=JOSUÉ%20RODRIGUES&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=52&desc=FULL%20STACK%20DEVELOPER&descAlignY=55&animation=fadeIn" />
 
-### `DESENVOLVEDOR FULL STACK`
+<br/>
+<a href="https://komarev.com/ghpvc/?username=JosueRod17">
+  <img src="https://komarev.com/ghpvc/?username=JosueRod17&style=for-the-badge&color=8A2BE2" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/JosueRod17">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Automações+com+Python;Integrações+com+APIs;React+%7C+Node.js+%7C+Docker;Sempre+evoluindo+🚀" />
-  </a>
-</p>
+<a href="https://github.com/JosueRod17?tab=followers">
+  <img src="https://img.shields.io/github/followers/JosueRod17?style=for-the-badge&color=8A2BE2&labelColor=0D1117" />
+</a>
 
-<p align="center">
-  <a href="https://br.linkedin.com/in/josuerodrigues17">
-    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=8A2BE2"/>
-  </a>
-  
-  <a href="https://www.instagram.com/_josuerod/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=8A2BE2"/>
-  </a>
-  
-  <a href="mailto:SEUEMAIL">
-    <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=8A2BE2"/>
-  </a>
-</p>
+<a href="https://github.com/JosueRod17">
+  <img src="https://img.shields.io/github/stars/JosueRod17?style=for-the-badge&color=8A2BE2&labelColor=0D1117" />
+</a>
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2"/>
 
-# ⚡ SOBRE MIM
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> SOBRE MIM
 
 ```ts
-const josue = {
+class JosueRodrigues {
   foco: "Full Stack Development",
-  linguagens: ["JavaScript", "Python", "PHP"],
   frontend: ["React", "TailwindCSS"],
-  backend: ["Node.js", "APIs", "Automations"],
+  backend: ["Node.js", "JavaScript", "Python", "PHP"],
   bancoDeDados: ["PostgreSQL", "MySQL"],
   devOps: ["Docker", "Git"],
   
   atualObjetivo:
     "Construir aplicações modernas, performáticas e escaláveis."
 }
+```
+<div align="center">
+
+## ⚡ STACK
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,js,python,php,postgres,docker,tailwind,git,vscode&theme=dark" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2"/>
+
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosueRod17&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=FFFFFF&hide_border=true" /> </div>
+<div align="center"> <img width="70%" src="https://streak-stats.demolab.com?user=JosueRod17&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2"/> </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2"/>
